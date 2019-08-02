@@ -1,3 +1,7 @@
+<h1>News update</h1>
+<p> Sorry that they're hasn't been any updates to this github for over a long time. Right now i have some things going on that have pushed coding projects to be paused for web developing.</p>
+<p>Posted: 8/2/2019 3:47AM CST</p>
+
 <h1>Update 0.0.1</h1>
 <p> Added Under Development.html which is just a simple manul editable update page so that u can put that in the way incase if you're making changes you can redirect them to the Under Develoment or rename it as Under-Going-Maintenance. It will soon be recoded to a .php file soon with a mysql database connection so that you can post updates via a mysql </p>
 
